@@ -1,0 +1,14 @@
+{
+  "name": "vihar-memcached",
+  "version": "0.1.0",
+  "author": "vihar",
+  "summary": "Used for installing memcached server",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": "https://forge.puppetlabs.com/saz/memcached",
+  "issues_url": "'/var/log/memcached.log'",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
