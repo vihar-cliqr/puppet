@@ -1,4 +1,4 @@
-#!/bin/bash -xh
+#!/bin/bash 
 
 ##########################################################################################
 #This script will install puppet-master on Centos 7 instance

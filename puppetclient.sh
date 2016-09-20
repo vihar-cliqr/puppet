@@ -1,4 +1,13 @@
 #!/bin/bash
+##########################################################################################
+#This script will install puppet-client on Centos 7 instance
+#version =1
+#Revision =0
+#Date = 15/Aug/16
+#Author = Vihar Parameswaran
+#Email ID: viparame@cisco.com
+##########################################################################################
+
 echo "Enter the Puppet master IP address"
 read ipaddress
 hostfile=/etc/hosts
